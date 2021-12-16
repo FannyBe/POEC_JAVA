@@ -1,0 +1,21 @@
+package fr.dawan.entree_sortie_standard;
+
+import java.util.Scanner;
+
+public class LectureDunEntier {
+	
+
+	public static void main(String[] args) {
+		
+		Scanner clavier = new Scanner(System.in);
+		
+		int n = 0;
+		
+		System.out.println("Entrez un nombre : ");
+		//n = clavier.nextInt();
+		
+		
+
+	}
+
+}
