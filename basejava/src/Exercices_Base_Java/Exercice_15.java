@@ -15,8 +15,5 @@ public class Exercice_15 {
 		
 		System.out.println("Premier chiffre = " + saisie.charAt(0));
 		System.out.println("Dernier chiffre = " + saisie.charAt(i - 1));
-		
-			
 		} 
-
 	}
